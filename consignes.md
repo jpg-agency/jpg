@@ -28,7 +28,6 @@ Par groupe de 3, vous allez fonder une agence Web. Pour ce faire, vous allez dé
 
 ### Phases d’initialisation : constitution des groupes et définition de l'identité du projet
 
-- Constituez des groupes de 3 personnes
   - Procédez à l'élection d'un « Chef de projet » qui sera en charge de la coordination des différents acteurs sur le projet ; 
 - Commencez la rédaction du dossier de conception du projet :
   - Identifiez l'objectif :
@@ -38,7 +37,6 @@ Par groupe de 3, vous allez fonder une agence Web. Pour ce faire, vous allez dé
   - Réalisez un benchmark de sites d'agences Web (analyser des interfaces existantes et des tendances du Web) 
   - Anticipez la prise en compte des normes et la législation en vigueur (ex. : mentions légales, droits d'auteur, droit à l'image, données personnelles)
 - Jusitifiez la solution technique répondant au besoin : un site basé sur le CMS WordPress, et la création d'un thème sur mesure
-- Définissez l'identité de votre agence : son nom, son logotype
   - Créez une charte graphique
    - Définissez votre palette chromatique
    - Choisissez vos typographies (gérez le texte pour optimiser la lecture sur écran)
@@ -47,12 +45,6 @@ Par groupe de 3, vous allez fonder une agence Web. Pour ce faire, vous allez dé
 
 ### Phase de lancement : préparation de l'environnement de travail
 
-- Créez une page Organizations au nom de votre Web Agency sur Github et personnalisée là avec le logo
-  - Invitez tous les collaborateurs de votre web agency à devenir administrateur de cette page
-- Créez un « Project »  de type *kanban* classique (*to do*, *in progress*, *done*) sur la page Organization et listez, organisez et répartissez toutes les tâches ;
-  - Utilisez cet outil de gestion de projet tout au long de votre travail collaboratif.  ;
-- Créez sur Github un *repository* du nom de votre projet sur la page organisation de votre agence pour héberger les versions de vos travaux ;
-- Créez une *team* sur GitHub et invitez les collaborateurs à en faire partie, puis dans les *settings* du *repository*, ajoutez la *team* comme *collaborators* ;
 - Créer un nouveau site basé sur WordPress en local, nomé le répertoire « site_[nom-de-votre-agence] » ;
   - Dans wp-content > theme, créez un nouveau dossier nommé « theme_[nom-de-votre-agence] », dans ce répertoire, créez les fichiers « index.php », « style.css » et « functions.php » ainsi qu'un fichier « README.md »;
   - Initialisez le *repository* dans le répertoire nommé « theme_[nom-de-votre-agence] », et liez-le au *repository* en ligne sur votre page *organization* GitHub ;
