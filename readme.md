@@ -14,3 +14,6 @@ demander en amis tous les stagiaires de l'ACS et leurs contacts
 ## publier régulièrement sur LinkedIn et Instagram
 
 ## envoyer des memes via la newsletter
+
+## dossier de conception
+onglet GitHub, montrer le Gource de notre repo
